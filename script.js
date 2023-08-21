@@ -9,7 +9,7 @@ aceeditor.setOptions({
   vScrollBarAlwaysVisible: true,
 });
 aceeditor.setTheme('ace/theme/cobalt'); //  monokai dracula cobalt iplastic terminal
-aceeditor.session.setValue('Halllo world\n'.repeat(25));
+aceeditor.session.setValue('Hello world\n'.repeat(25));
 //aceeditor.focus();
 //aceeditor.session.setMode('ace/mode/javascript');
 
