@@ -23,6 +23,7 @@ $('#editorreplace').click(function () {
 
 $('#editor').css({
   height: '350px',
+  width: '750px',
   resize: 'both',
   overflow: 'hidden',
   border: 'solid 0px lightgray',
